@@ -1,4 +1,4 @@
-# YBI Foundation Internship projects
+# Jupyter Notebook projects
 # 1.Hand Written Digit Classification:
 This project demonstrates a Handwritten Digit Prediction system using the Random Forest Classifier. The dataset consists of 8x8 pixel grayscale images of handwritten digits. After visualizing a few sample images, the data is preprocessed by reshaping and scaling the pixel values. The dataset is split into training and testing sets, followed by training a Random Forest Classifier on the training data. The model is evaluated using the test data, and the performance is measured with metrics like confusion matrix and classification report, achieving an accuracy of 98% in predicting the correct digits.
 # 2.Financial market News Sentiment Analysis:
